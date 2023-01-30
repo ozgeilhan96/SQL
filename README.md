@@ -1,2 +1,0 @@
-# SQL
-Patika SQL ödevler 
